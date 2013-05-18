@@ -1,6 +1,9 @@
 py-gaugette
 ===========
 
+[This is simply a fork of guyc's [awesome library](https://github.com/guyc/py-gaugette), updated so that the wiringpi library references are changed to the wiringpi2 library.]
+
+
 A library for interfacing hardware with the Raspberry Pi.
 Supports analog gauges, capacitance switches, RGB leds and other devices.
 
